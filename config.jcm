@@ -1,5 +1,6 @@
-mas hello_world {
-    agent hello_world_agent
+mas exercise_10 {
+    agent test1_agent
+    // agent test2_agent
 
     asl-path: "src/main/jason"
     java-path: "src/main/cartago"
