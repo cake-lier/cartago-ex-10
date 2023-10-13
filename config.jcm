@@ -1,6 +1,6 @@
 mas exercise_10 {
-    agent test1_agent
-    // agent test2_agent
+    agent test_agent
+    // agent test_agent_solution
 
     asl-path: "src/main/jason"
     java-path: "src/main/cartago"
