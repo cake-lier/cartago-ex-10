@@ -1,4 +1,4 @@
-# JaCaMo by exercises — Exercise 10 — Working with Multiple Workspaces
+# CArtAgO by exercises — Exercise 10 — Working with Multiple Workspaces
 
 In this exercise, you'll familiarize with the concept of multiple workspaces.
 In CArtAgO, it is possible for an agent to be part of multiple workspaces at once,
